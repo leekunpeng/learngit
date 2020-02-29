@@ -1,5 +1,6 @@
 Git is a distribution verision control system.
 Git is a free software.  distributed under the GPL.
+i like git.
 Git has a mutable index called stage.
 Git tracks changes.
 Create a new branch id quick.
